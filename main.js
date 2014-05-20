@@ -1,6 +1,6 @@
 window.onload = function(){
 
-	"Use strict";
+	"use strict";
 	var uranai = Math.random();
 	var result;
 	var hyouka;
